@@ -1,0 +1,14 @@
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\Contactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\Contactos.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\Contactos.AssemblyInfo.cs
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\bin\Debug\net8.0\Contactos.exe
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\bin\Debug\net8.0\Contactos.deps.json
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\bin\Debug\net8.0\Contactos.runtimeconfig.json
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\bin\Debug\net8.0\Contactos.dll
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\bin\Debug\net8.0\Contactos.pdb
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\Contactos.dll
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\refint\Contactos.dll
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\Contactos.pdb
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\Contactos.genruntimeconfig.cache
+C:\Users\Carlos\Documents\T\Trabajo\PruebaTecnica\Contactos\obj\Debug\net8.0\ref\Contactos.dll
